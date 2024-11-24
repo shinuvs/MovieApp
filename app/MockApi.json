@@ -1,0 +1,446 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "backdrop_path": "/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+        "id": 94605,
+        "name": "Arcane",
+        "original_name": "Arcane",
+        "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+        "poster_path": "/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          9648
+        ],
+        "popularity": 2013.161,
+        "first_air_date": "2021-11-06",
+        "vote_average": 8.8,
+        "vote_count": 4164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/8mjYwWT50GkRrrRdyHzJorfEfcl.jpg",
+        "id": 558449,
+        "title": "Gladiator II",
+        "original_title": "Gladiator II",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "popularity": 2185.274,
+        "release_date": "2024-11-13",
+        "video": false,
+        "vote_average": 6.827,
+        "vote_count": 245
+      },
+      {
+        "backdrop_path": "/p6ZP3Humvo90UXkDeEv5x9aynNH.jpg",
+        "id": 125988,
+        "name": "Silo",
+        "original_name": "Silo",
+        "overview": "In a ruined and toxic future, a community exists in a giant underground silo that plunges hundreds of stories deep. There, men and women live in a society full of regulations they believe are meant to protect them.",
+        "poster_path": "/tlliQuCupf8fpTH7RAor3aKMGy.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 1088.77,
+        "first_air_date": "2023-05-04",
+        "vote_average": 8.2,
+        "vote_count": 997,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/v1hqncj250WcVeVs5RXzQ3ekwMA.jpg",
+        "id": 213306,
+        "name": "Cross",
+        "original_name": "Cross",
+        "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+        "poster_path": "/oArnlWvky2KtWoGC0ChaDboEvcH.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 347.22,
+        "first_air_date": "2024-11-14",
+        "vote_average": 6.5,
+        "vote_count": 30,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/dvBCdCohwWbsP5qAaglOXagDMtk.jpg",
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "original_title": "Deadpool & Wolverine",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          878
+        ],
+        "popularity": 2033.376,
+        "release_date": "2024-07-24",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 5386
+      },
+      {
+        "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+        "id": 153312,
+        "name": "Tulsa King",
+        "original_name": "Tulsa King",
+        "overview": "Just after he is released from prison after 25 years, New York mafia capo Dwight “The General” Manfredi is unceremoniously exiled by his boss to set up shop in Tulsa, Okla. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a “crew” from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.",
+        "poster_path": "/zMFAdj30K84Sz90bCd6ePwiAO37.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 1906.36,
+        "first_air_date": "2022-11-13",
+        "vote_average": 8.4,
+        "vote_count": 1886,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/qq36sU5xH581RiNEkookMQ9D7yp.jpg",
+        "id": 194764,
+        "name": "The Penguin",
+        "original_name": "The Penguin",
+        "overview": "With the city in peril following the seawall's collapse, Oswald \"Oz\" Cobb seeks to fill the power vacuum left by the death of Carmine Falcone and finally give his mother Francis the life he's always promised. But first, Oz must confront his enemies and his own demoralizing reputation as \"the Penguin.\"",
+        "poster_path": "/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 776.417,
+        "first_air_date": "2024-09-19",
+        "vote_average": 8.5,
+        "vote_count": 459,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/1VdLvSIeHuwqCT13H9EafxCacGB.jpg",
+        "id": 98,
+        "title": "Gladiator",
+        "original_title": "Gladiator",
+        "overview": "In the year 180, the death of Emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals, as well as a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is sentenced to execution. He escapes but is captured by slave traders. Renamed \"Spaniard\" and forced to become a gladiator, Maximus must battle to the death against other men for the amusement of paying audiences.",
+        "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          12
+        ],
+        "popularity": 629.785,
+        "release_date": "2000-05-04",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 18539
+      },
+      {
+        "backdrop_path": "/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+        "id": 933260,
+        "title": "The Substance",
+        "original_title": "The Substance",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          27,
+          878
+        ],
+        "popularity": 1555.868,
+        "release_date": "2024-09-07",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 1958
+      },
+      {
+        "backdrop_path": "/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
+        "id": 77169,
+        "name": "Cobra Kai",
+        "original_name": "Cobra Kai",
+        "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+        "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "popularity": 1241.514,
+        "first_air_date": "2018-05-02",
+        "vote_average": 8.2,
+        "vote_count": 6262,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "id": 37854,
+        "name": "One Piece",
+        "original_name": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          35,
+          16
+        ],
+        "popularity": 153.384,
+        "first_air_date": "1999-10-20",
+        "vote_average": 8.7,
+        "vote_count": 4700,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+        "id": 222766,
+        "name": "The Day of the Jackal",
+        "original_name": "The Day of the Jackal",
+        "overview": "An unrivalled and highly elusive lone assassin, the Jackal, makes his living carrying out hits for the highest fee. But following his latest kill, he meets his match in a tenacious British intelligence officer who starts to track down the Jackal in a thrilling cat-and-mouse chase across Europe, leaving destruction in its wake.",
+        "poster_path": "/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          9648
+        ],
+        "popularity": 447.015,
+        "first_air_date": "2024-11-07",
+        "vote_average": 7.878,
+        "vote_count": 41,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "backdrop_path": "/nA0RDmSDqpN5tLun4sCqdPekObD.jpg",
+        "id": 592831,
+        "title": "Megalopolis",
+        "original_title": "Megalopolis",
+        "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+        "poster_path": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          18,
+          14
+        ],
+        "popularity": 402.717,
+        "release_date": "2024-09-25",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 429
+      },
+      {
+        "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+        "id": 845781,
+        "title": "Red One",
+        "original_title": "Red One",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas.",
+        "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          14
+        ],
+        "popularity": 1515.081,
+        "release_date": "2024-10-31",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 109
+      },
+      {
+        "backdrop_path": "/yj4w50MMjjxCulTJ3FujKgrkZSF.jpg",
+        "id": 157741,
+        "name": "Landman",
+        "original_name": "Landman",
+        "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+        "poster_path": "/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 72.523,
+        "first_air_date": "2024-11-17",
+        "vote_average": 10,
+        "vote_count": 1,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "id": 30984,
+        "name": "Bleach",
+        "original_name": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster_path": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 341.259,
+        "first_air_date": "2004-10-05",
+        "vote_average": 8.4,
+        "vote_count": 1825,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "backdrop_path": "/q3UGWifvIpdey1T2efX4dSmbZpU.jpg",
+        "id": 124364,
+        "name": "FROM",
+        "original_name": "FROM",
+        "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+        "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "popularity": 1995.018,
+        "first_air_date": "2022-02-20",
+        "vote_average": 8.188,
+        "vote_count": 1419,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "backdrop_path": "/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
+        "id": 917496,
+        "title": "Beetlejuice Beetlejuice",
+        "original_title": "Beetlejuice Beetlejuice",
+        "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+        "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          14,
+          27
+        ],
+        "popularity": 484.629,
+        "release_date": "2024-09-04",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 1803
+      },
+      {
+        "backdrop_path": "/2h9yTYWTb909J28bzNTIE7dyNqP.jpg",
+        "id": 698687,
+        "title": "Transformers One",
+        "original_title": "Transformers One",
+        "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+        "poster_path": "/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          878,
+          12,
+          10751
+        ],
+        "popularity": 1415.534,
+        "release_date": "2024-09-11",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 693
+      },
+      {
+        "backdrop_path": "/ljNVBysYnPCwLqP3HXL7T1thZxu.jpg",
+        "id": 402431,
+        "title": "Wicked",
+        "original_title": "Wicked",
+        "overview": "Elphaba, an ostracized but defiant girl born with green skin, and Glinda, a privileged aristocrat born popular, become extremely unlikely friends in the magical Land of Oz. As the two girls struggle with their opposing personalities, their friendship is tested as both begin to fulfill their destinies as Glinda the Good and The Wicked Witch of the West.",
+        "poster_path": "/c5Tqxeo1UpBvnAc3csUm7j3hlQl.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          14,
+          10749
+        ],
+        "popularity": 422.989,
+        "release_date": "2024-11-20",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 14
+      }
+    ],
+    "total_pages": 500,
+    "total_results": 10000
+  }
